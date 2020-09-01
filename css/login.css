@@ -1,0 +1,130 @@
+*{
+    margin:0;
+    padding:0;
+    font-size: 14px;
+}
+body{
+    background-color: #f4f4f4;
+    background-image: url("../images/login-ground.jpg");
+    background-size: 100%;
+}
+#log{
+    width:400px;
+    height:460px;
+    margin: 15% auto 0;
+    background-color: #fff;
+}
+.denglu{
+    width: 85%;
+    height:70px;
+    line-height: 70px;
+    margin:0 auto;
+    border-bottom: 1px solid #eee;
+}
+.denglu ul{
+    overflow: hidden;
+}
+.denglu ul li{
+    list-style: none;
+    float: left;
+    height:68px;
+    line-height: 68px;
+}
+.denglu ul li a{
+    text-decoration: none;
+    color:#999;
+}
+.denglu ul li:first-child a{
+    text-decoration: none;
+    color:#333;
+}
+.denglu ul li:hover a{
+    text-decoration: none;
+    color:#333;
+}
+.denglu ul li:first-child{
+    border-bottom: 2px solid #666;
+    margin-right: 20px;
+}
+.input{
+    width: 85%;
+    margin:0 auto;
+    padding-top:40px;
+}
+.input input{
+    width:100%;
+    height: 40px;
+    outline: none;
+    border:1px solid #DDDDDD;
+    background-color: #F4F4F4;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    text-indent: 10px;
+}
+.input input:focus{
+    border:1px solid #3DB45E;
+    background-color: transparent
+}
+.sub{
+    width:100%;
+    height: 40px;
+    outline: none;
+    border:none;
+    background-color: #3DB45E;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    color:#fff;
+}
+.logid{
+    width: 85%;
+    height:70px;
+    margin:0 auto;
+}
+#auto span{
+    margin-left: 10px;
+    font-size: 12px;
+    vertical-align: top;
+}
+#auto span a{
+    float: right;
+    text-decoration: none;
+    font-size: 12px;
+    vertical-align: top;
+    color:#666;
+}
+#auto span a:hover{
+    text-decoration: underline;
+    color:#3DB45E;
+}
+.disanf{
+    width:50%;
+    text-align: center;
+    margin: 30px auto 0;
+}
+.disanf ul{
+    width: 120px;
+    overflow: hidden;
+    margin: 0 auto;
+}
+.disanf p{
+    font-size: 14px;
+    color:#666;
+    padding-bottom:20px;
+}
+.disanf ul li{
+    list-style: none;
+    float: left;
+    width:30px;
+    height:30px;
+    line-height: 30px;
+    border-radius: 20px;
+    color:#fff;
+    background-color: #ddd;
+    transition: all 0.25s linear;
+}
+.disanf ul li~li{
+    margin-left:15px;
+}
+.disanf ul li:hover{
+    background-color: #3DB45E;
+}

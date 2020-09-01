@@ -1,0 +1,31 @@
+*{
+    color: #333333;
+}
+nav ul:first-child li:nth-child(4) a {
+    color: #3DB45E;
+    border-bottom: 2px solid #3DB45E;
+}
+#juzhong{
+    text-align: center;
+}
+h3{
+    padding: 20px;
+    margin: 20px;
+}
+
+.s{
+    border-bottom:1px dotted rgba(170,170,170,.2);
+    margin: 10px;
+    padding: 10px;
+}
+.w{
+    margin: 10px;
+    padding: 10px;
+}
+.two{
+    padding-bottom: 50px;
+}
+h1{
+    font-size:20px;
+}
+

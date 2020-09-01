@@ -1,0 +1,267 @@
+/* 定义加载效果 */
+/* 智慧产品*/
+#zhihui{
+    position: relative;
+    top:100px;
+    opacity: 0;
+    transition: all 0.4s linear 0.1s;
+}
+#smart{
+    position: relative;
+    top:100px;
+    opacity: 0;
+    transition: all 0.4s linear 0.2s;
+}
+/* 智慧产品4个头部块*/
+#all{
+    position: relative;
+    top:100px;
+    opacity: 0;
+    transition: all 0.4s linear 0.1s;
+}
+#dengju{
+    position: relative;
+    top:100px;
+    opacity: 0;
+    transition: top 0.4s linear 0.2s,opacity 0.3s linear 0.2s;
+    -webkit-transition:top 0.4s linear 0.2s,opacity 0.3s linear 0.2s;
+}
+#wenkong{
+    position: relative;
+    top:100px;
+    opacity: 0;
+    transition: top 0.4s linear 0.2s,opacity 0.3s linear 0.2s;
+    -webkit-transition:top 0.4s linear 0.2s,opacity 0.3s linear 0.2s;
+}
+#jiating{
+    position: relative;
+    top:100px;
+    opacity: 0;
+    transition: top 0.4s linear 0.2s,opacity 0.3s linear 0.2s;
+    -webkit-transition:top 0.4s linear 0.2s,opacity 0.3s linear 0.2s;
+}
+/* 产品图片6块 */
+#chanpin1{
+    position: relative;
+    top:100px;
+    opacity: 0;
+    transition: all 0.4s linear 0.1s;
+}
+#chanpin2{
+    position: relative;
+    top:100px;
+    opacity: 0;
+    transition: all 0.4s linear 0.2s;
+}
+#chanpin3{
+    position: relative;
+    top:100px;
+    opacity: 0;
+    transition: all 0.4s linear 0.3s;
+}
+#chanpin4{
+    position: relative;
+    top:100px;
+    opacity: 0;
+    transition: all 0.4s linear 0.1s;
+}
+#chanpin5{
+    position: relative;
+    top:100px;
+    opacity: 0;
+    transition: all 0.4s linear 0.2s;
+}
+#chanpin6{
+    position: relative;
+    top:100px;
+    opacity: 0;
+    transition: all 0.4s linear 0.3s;
+}
+#chanpin7{
+    position: relative;
+    top:100px;
+    opacity: 0;
+    transition: all 0.4s linear 0.2s;
+}
+/* more */
+#more{
+    position: relative;
+    top:100px;
+    opacity: 0;
+    transition: all 0.4s linear 0.3s;
+}
+/* 产品类别 */
+#chanpinlei1{
+    position: relative;
+    top:100px;
+    opacity: 0;
+    transition: all 0.4s linear 0.1s;
+}
+#chanpinlei2{
+    position: relative;
+    top:100px;
+    opacity: 0;
+    transition: all 0.4s linear 0.1s;
+}
+#chanpinlei3{
+    position: relative;
+    top:100px;
+    opacity: 0;
+    transition: all 0.4s linear 0.2s;
+}
+#chanpinlei4{
+    position: relative;
+    top:100px;
+    opacity: 0;
+    transition: all 0.4s linear 0.2s;
+}
+/* 动态 */
+#dongtai{
+    position: relative;
+    top:100px;
+    opacity: 0;
+    transition: all 0.4s linear 0.1s;
+}
+#lat{
+    position: relative;
+    top:100px;
+    opacity: 0;
+    transition: all 0.4s linear 0.2s;
+}
+#all2{
+    position: relative;
+    top:100px;
+    opacity: 0;
+    transition: all 0.4s linear 0.2s;
+}
+#zuixin{
+    position: relative;
+    top:100px;
+    opacity: 0;
+    transition: top 0.4s linear 0.2s,opacity 0.3s linear 0.2s;
+    -webkit-transition:top 0.4s linear 0.2s,opacity 0.3s linear 0.2s;
+}
+/* 动态内容板块 */
+#newscont1{
+    position: relative;
+    top:100px;
+    opacity: 0;
+    transition: all 0.4s linear 0.1s;
+}
+#newscont2{
+    position: relative;
+    top:100px;
+    opacity: 0;
+    transition: all 0.4s linear 0.2s;
+}
+#newscont3{
+    position: relative;
+    top:100px;
+    opacity: 0;
+    transition: all 0.4s linear 0.3s;
+}
+/* 更多 */
+#more2{
+    position: relative;
+    top:100px;
+    opacity: 0;
+    transition: all 0.4s linear 0.2s;
+}
+/* 案例 */
+#anli{
+    position: relative;
+    top:100px;
+    opacity: 0;
+    transition: all 0.4s linear 0.2s;
+}
+#succ{
+    position: relative;
+    top:100px;
+    opacity: 0;
+    transition: all 0.4s linear 0.3s;
+}
+#anlicont1{
+    position: relative;
+    top:100px;
+    opacity: 0;
+    transition: all 0.4s linear 0.2s;
+}
+#anlicont2{
+    position: relative;
+    top:100px;
+    opacity: 0;
+    transition: all 0.4s linear 0.3s;
+}
+#anlicont3{
+    position: relative;
+    top:100px;
+    opacity: 0;
+    transition: all 0.4s linear 0.4s;
+}
+#anlicont4{
+    position: relative;
+    top:100px;
+    opacity: 0;
+    transition: all 0.4s linear 0.2s;
+}
+#anlicont5{
+    position: relative;
+    top:100px;
+    opacity: 0;
+    transition: all 0.4s linear 0.3s;
+}
+#anlicont6{
+    position: relative;
+    top:100px;
+    opacity: 0;
+    transition: all 0.4s linear 0.4s;
+}
+#anlicont0{
+    position: relative;
+    top:100px;
+    opacity: 0;
+    transition: all 0.4s linear 0.4s;
+}
+/* 合作 */
+#hezuo{
+    position: relative;
+    top:100px;
+    opacity: 0;
+    transition: all 0.4s linear 0.2s;
+}
+#part{
+    position: relative;
+    top:100px;
+    opacity: 0;
+    transition: all 0.4s linear 0.3s;
+}
+#hezuologo1{
+    position: relative;
+    top:100px;
+    opacity: 0;
+    transition: all 0.4s linear 0.2s;
+}
+#hezuologo2{
+    position: relative;
+    top:100px;
+    opacity: 0;
+    transition: all 0.4s linear 0.3s;
+}
+#hezuologo3{
+    position: relative;
+    top:100px;
+    opacity: 0;
+    transition: all 0.4s linear 0.4s;
+}
+#hezuologo4{
+    position: relative;
+    top:100px;
+    opacity: 0;
+    transition: all 0.4s linear 0.5s;
+}
+#hezuologo5{
+    position: relative;
+    top:100px;
+    opacity: 0;
+    transition: all 0.4s linear 0.6s;
+}

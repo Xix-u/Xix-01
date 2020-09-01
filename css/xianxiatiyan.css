@@ -1,0 +1,48 @@
+nav ul:first-child li:nth-child(6) a{
+    color:#3DB45E;
+    border-bottom: 2px solid #3DB45E;
+}
+.fangkuai {
+    width: 100%;
+    height: 800px;
+    padding-top: 50px;
+    overflow: hidden;
+    padding-bottom: 150px;
+}
+.fangkuai>li {
+    /*border: 1px solid blue;*/
+    overflow: hidden;
+    height: 420px;
+    width: 746px;
+    float: left;
+}
+.fangkuais {
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+.fangkuai li>div img {
+    width: 100%;
+    transition:all 1.2s ease ;
+}
+.dabiaoti {
+    color: #333333;
+    font-size: 16px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+.xiaobiaoti {
+    color: #666666;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+.fangkuai li:hover>div img {
+    transform:scale(1.2);
+}
+.donghua {
+    width: 100%;
+    height: 256px;
+    overflow: hidden;
+}
+.fangkuai li:hover>.dabiaoti {
+    color:#3eb45e;
+}

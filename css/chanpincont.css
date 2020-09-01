@@ -1,0 +1,35 @@
+/* 导航栏当前标记 */
+nav ul:first-child li:nth-child(2) a{
+    color:#3DB45E;
+    border-bottom: 2px solid #3DB45E;
+}
+.title{
+    text-align: center;
+    padding-top:80px;
+    padding-bottom: 100px;
+}
+.title p:nth-child(1){
+    font-size:22px;
+    color:#444;
+}
+.title p:nth-child(2){
+    font-size:14px;
+    color:#c1c1c1;
+    line-height:24px;
+}
+.arrt{
+    padding-bottom: 72px;
+}
+.arrt img{
+    width: 100%;
+    margin-bottom: 12px;
+}
+.arrt p{
+    font-size:13px;
+    color:#666;
+    line-height:72px;
+    border-bottom: 1px dotted #EEEEEE;
+}
+.arrt p:last-child{
+    padding-bottom: 60px;
+}

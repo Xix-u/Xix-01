@@ -1,0 +1,56 @@
+nav ul:first-child li:nth-child(6) a{
+    color:#3DB45E;
+    border-bottom: 2px solid #3DB45E;
+}
+
+.biaoti {
+    text-align: center;
+    font-size: 24px;
+    color: #555555;
+    margin-bottom: 100px;
+}
+.xiao {
+    line-height: 34px;
+    font-size: 13px;
+    color: #666666;
+
+}
+.left {
+    float: left;
+    width: 600px;
+    height: 360px;
+    padding-right: 30px;
+}
+.daxiao {
+    font-size: 13px;
+}
+.gao {
+    height: 430px;
+    line-height: 30px;
+}
+.right {
+    color: #666666;
+    font-size: 13px;
+    line-height: 20px;
+    margin-top: 20px;
+}
+.biaots {
+    color: #555555;
+    font-size: 24px;
+}
+.objk {
+    margin-top: 30px;
+}
+.hx {
+    margin-top: 55px;
+    margin-bottom: 40px;
+    border-style: dotted;
+    border-color:#eee;
+}
+.xiaobt {
+    font-size: 24px;
+    color: #333333;
+}
+.dibu{
+    padding-bottom: 100px;
+}

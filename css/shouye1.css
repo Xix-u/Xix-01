@@ -1,0 +1,144 @@
+/* 当前页面不显示效果,第几个就在后面的1上面改 */
+nav ul:first-child li:nth-child(5) a{
+    color:#3DB45E;
+    border-bottom: 2px solid #3DB45E;
+}
+#news{
+	padding: 100px 0 ;
+}
+.Ntitle{
+	font-size: 24px;
+	color: #555555;
+	text-align: center;
+}
+.Np1{
+	font-size: 14px;
+	color: #bbbbbb;
+	text-align: center;
+}
+/* #news a{
+	color: #828282;
+	font-size: 13px;
+	border: 1px solid;
+	padding: 10px 28px;
+	margin: 0 2px;
+} */
+.Pa  a:nth-of-type(1){
+	color: white;
+	background-color: #3db45e;
+	font-size: 13px;
+	border: 1px solid;
+	padding: 10px 28px;
+	margin: 0 2px;
+	
+}
+.Pa a:nth-of-type(2){
+	color: #828282;
+	font-size: 13px;
+	border: 1px solid;
+	padding: 10px 28px;
+	margin: 0 2px;
+		
+}
+
+.Pa  a:nth-of-type(2):hover{
+	background-color: #3db45e;
+	cursor: pointer;
+	color: white;
+}
+
+
+#news p:nth-of-type(3){
+	text-align: center;
+	padding: 40px 0 70px 0;
+}
+#news ul{
+	overflow: hidden;
+	height: 430px;
+}
+
+#news li{
+	width: 487px;
+	position: relative;
+	transition: all 1s;
+	/* text-align: left; */
+	/* border: 1px solid; */
+	
+	float: left;
+}
+#news li~li{
+	margin-left: 30px;
+}
+
+.Fimg img{
+	width: 100%;
+	transition: all 1s;
+}
+
+.text1{
+	padding: 50px 30px;
+}
+
+#news span{
+	display: inline-block;
+	font-size: 36px;
+	width: 487px;
+	height: 48px;
+	text-align: center;
+	line-height: 48px;
+	position: absolute;
+	top:194px ;
+	left: 0;
+	background-color: rgba(61,180,94,0);
+	color:rgba(255,255,255,0);
+	transition: all 1s;
+	
+}
+.text1 p:first-child{
+	text-align: center;
+	padding-bottom: 20px;
+	font-size: 16px;
+	color: #333333;
+}
+.text1 p:last-child{
+	font-size: 13px;
+	color: #999999;
+}
+.Fimg{
+	height: 243px;
+	overflow: hidden;
+}
+.Fli:hover>.Fimg>img{
+	transform: scale(1.2);
+}
+#news .Fli:hover span{
+	background-color: rgba(61,180,94,1);
+	color:rgba(255,255,255,1);
+	cursor: pointer;
+}
+.Fli:hover>.text1 p:first-child{
+	color: #3DB45E;
+}
+.Fli:hover{
+	cursor: pointer;
+	box-shadow: 0px 0px 20px #F0F0F0;
+	
+}
+.Pmore {
+	
+	text-align: center;
+	padding: 60px 0;
+	
+}	
+.Pmore>a{
+	padding: 20px 60px;
+	color: #333333;
+	border-radius: 50px;
+	background-color: rgba(61,180,94,0);
+}
+.Pmore>a:hover{
+	color: white;
+	background-color: rgba(61,180,94,1);
+	cursor: pointer;
+}
+
